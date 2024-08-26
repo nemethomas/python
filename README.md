@@ -1,4 +1,4 @@
-# python
+# python Prototyp
 Ich möchte auf meinem Raspberry mit Python entwickeln. Dazu möchte ich webdiagramme entwickeln welche ich von meinem Rechner aus aufrufen kann. 
 
 1) Ich setze einen Raspberry auf und hänge ihn ins LAN.
